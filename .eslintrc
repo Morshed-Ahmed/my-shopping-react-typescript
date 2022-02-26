@@ -1,0 +1,7 @@
+{
+    "extends": ["react-app","react-app/jest"]
+}
+
+/* {
+    "extends": ["react-app", "plugin:prettier/recommended"]
+  } */
